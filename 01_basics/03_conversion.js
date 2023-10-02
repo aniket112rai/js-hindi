@@ -25,8 +25,11 @@ console.log(str)
 console.log(typeof str)
 console.log("---------------------------------------------------")
 
-
-
+//operations
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+ 2+ 2)
+console.log(1 + 2 + "2")
 
 
 
